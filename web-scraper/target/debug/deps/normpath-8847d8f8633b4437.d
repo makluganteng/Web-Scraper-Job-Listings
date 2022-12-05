@@ -1,0 +1,11 @@
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/deps/normpath-8847d8f8633b4437.rmeta: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/lib.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/cmp.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/error.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/common.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/base.rs
+
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/deps/libnormpath-8847d8f8633b4437.rlib: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/lib.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/cmp.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/error.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/common.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/base.rs
+
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/deps/normpath-8847d8f8633b4437.d: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/lib.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/cmp.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/error.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/common.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/base.rs
+
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/lib.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/cmp.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/error.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/common.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/normpath-0.3.2/src/base.rs:

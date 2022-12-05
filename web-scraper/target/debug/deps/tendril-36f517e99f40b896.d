@@ -1,0 +1,11 @@
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/deps/tendril-36f517e99f40b896.rmeta: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs
+
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/deps/tendril-36f517e99f40b896.d: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs
+
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs:

@@ -1,0 +1,11 @@
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/deps/libasync_trait-a8a491759381d09e.dylib: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/lib.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/args.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/bound.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/expand.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/lifetime.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/parse.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/receiver.rs
+
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/deps/async_trait-a8a491759381d09e.d: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/lib.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/args.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/bound.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/expand.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/lifetime.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/parse.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/receiver.rs
+
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/lib.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/args.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/bound.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/expand.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/lifetime.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/parse.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.59/src/receiver.rs:

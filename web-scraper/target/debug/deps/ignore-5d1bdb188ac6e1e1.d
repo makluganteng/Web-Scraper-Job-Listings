@@ -1,0 +1,12 @@
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/deps/ignore-5d1bdb188ac6e1e1.rmeta: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/lib.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/default_types.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/dir.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/gitignore.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/overrides.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/pathutil.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/types.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/walk.rs
+
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/deps/ignore-5d1bdb188ac6e1e1.d: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/lib.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/default_types.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/dir.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/gitignore.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/overrides.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/pathutil.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/types.rs /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/walk.rs
+
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/lib.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/default_types.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/dir.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/gitignore.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/overrides.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/pathutil.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/types.rs:
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/walk.rs:

@@ -1,0 +1,5 @@
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/build/serde-504e57c998973611/build_script_build-504e57c998973611: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-1.0.148/build.rs
+
+/Users/valentinofish/Web-Scraper-Job-Listings/web-scraper/target/debug/build/serde-504e57c998973611/build_script_build-504e57c998973611.d: /Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-1.0.148/build.rs
+
+/Users/valentinofish/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-1.0.148/build.rs:
